@@ -1,0 +1,8 @@
+D:\Codding\consoleApp\consoleTest\bin\Debug\consoleTest.exe.config
+D:\Codding\consoleApp\consoleTest\bin\Debug\consoleTest.exe
+D:\Codding\consoleApp\consoleTest\bin\Debug\consoleTest.pdb
+D:\Codding\consoleApp\consoleTest\obj\Debug\consoleTest.csproj.AssemblyReference.cache
+D:\Codding\consoleApp\consoleTest\obj\Debug\consoleTest.csproj.SuggestedBindingRedirects.cache
+D:\Codding\consoleApp\consoleTest\obj\Debug\consoleTest.csproj.CoreCompileInputs.cache
+D:\Codding\consoleApp\consoleTest\obj\Debug\consoleTest.exe
+D:\Codding\consoleApp\consoleTest\obj\Debug\consoleTest.pdb
